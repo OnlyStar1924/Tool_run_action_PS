@@ -1,0 +1,4 @@
+// delete tempInput
+// delete child output
+
+bash main.sh
